@@ -10,7 +10,9 @@ Buzzing and led getting lit  based on distance from ultrasonic sensor.
 1 x 220 Ohm resistor<br />
 Jumper Wires<br />
 ## Getting Started
-Download the repository in your local machine and execute the code in your Arduino IDE
-after building the circuit.
+Download the repository in your local machine and copy the code located <br />
+in the 'main.cpp' file, located in the src folder.
 
-Have fun :)
+Paste the code in your Arduino IDE and execute it after building the circuit.
+
+Have fun messing around with it :)
